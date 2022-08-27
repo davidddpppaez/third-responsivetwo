@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+.box {
+    height: 400px;
+    background-color: lightsalmon;
+    border: 5px solid black;
+}
